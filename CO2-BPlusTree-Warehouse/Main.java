@@ -1,4 +1,3 @@
-```java
 import java.util.*;
 
 class Main {
@@ -35,5 +34,4 @@ class Main {
         }
     }
 }
-```
 

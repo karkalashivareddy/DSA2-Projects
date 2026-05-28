@@ -1,4 +1,3 @@
-import java.util.*;
 
 class Edge {
     int src, dest, weight;
@@ -10,7 +9,7 @@ class Edge {
     }
 }
 
-public class Main {
+public class PrimsMST {
 
     static int V = 5;
 
@@ -71,4 +70,3 @@ public class Main {
         primMST(graph);
     }
 }
-```
