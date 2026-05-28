@@ -1,14 +1,4 @@
 
-class Edge {
-    int src, dest, weight;
-
-    Edge(int s, int d, int w) {
-        src = s;
-        dest = d;
-        weight = w;
-    }
-}
-
 public class PrimsMST {
 
     static int V = 5;
